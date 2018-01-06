@@ -14,12 +14,12 @@ Start der GV um 12:09
   * https://github.com/cyber-perikarp/statuten/pull/1
 
 ### Anwesende Mitglieder
-Alex, Manuel, Daniel, Sebastian. Die GV ist damit stimmberechtigt. 
+Alex, Manuel, Daniel, Sebastian. Die GV ist damit stimmberechtigt.  
 Protokoll: Sebastian
 
 ### Protokoll
-Abstimmungsmodus nach Abstimmung: Handhochhalten 
-Erläuterung der beantragen Statutenänderungen durch den Vorstand ist erfolgt. 
+Abstimmungsmodus nach Abstimmung: Handhochhalten  
+Erläuterung der beantragen Statutenänderungen durch den Vorstand ist erfolgt.  
 Es gibt keine spontanen Anträge an die Generalversammlung.
 
 * Abstimmung über die Verlegung des Vereinssitzes nach Wien: 4 dafür, 0 dagegen, 0 Enthaltungen
