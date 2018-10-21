@@ -19,11 +19,11 @@ Protokoll: Sebastian
 Abstimmungsmodus nach Abstimmung: Handhochhalten  
 Es gibt keine spontanen Anträge an die Generalversammlung.
 
-Bericht der Rechnungsprüfung: Alles in vertretbaren Umständen.
-Bericht des Vorstandes: Wir lösen uns auf weil wir keinen Vorstand mehr haben und das Ziel spenden zu sammeln nicht erreicht wurde.
-Entlastung des Vorstandes: 2 dafür, 0 dagegen, 0 Enthaltungen.
-Bericht des Obmanns erfolgt.
-Beschluss über die Auflösung des Vereins: 2 dafür, 0 dagegen, 0 Enthaltungen.
-Beschluss über Spende des Vereinsvermögens an den Verein Metalab: 2 dafür, 0 dagegen, 0 Enthaltungen.
+* Bericht der Rechnungsprüfung: Alles in vertretbaren Umständen.
+* Bericht des Vorstandes: Wir lösen uns auf weil wir keinen Vorstand mehr haben und das Ziel spenden zu sammeln nicht erreicht wurde.
+* Entlastung des Vorstandes: 2 dafür, 0 dagegen, 0 Enthaltungen.
+* Bericht des Obmanns erfolgt.
+* Beschluss über die Auflösung des Vereins: 2 dafür, 0 dagegen, 0 Enthaltungen.
+* Beschluss über Spende des Vereinsvermögens an den Verein Metalab: 2 dafür, 0 dagegen, 0 Enthaltungen.
 
 Ende der GV um 14:18
